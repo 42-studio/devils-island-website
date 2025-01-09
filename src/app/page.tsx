@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 
-export function Video() {
+function Video() {
   const [isIntro, setIsIntro] = useState<boolean>(true);
 
   return (
