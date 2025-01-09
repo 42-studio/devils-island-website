@@ -56,7 +56,7 @@ function Video() {
 
 export default function Home() {
   return (
-    <div className="flex flex-col items-center justify-between h-screen">
+    <div className="flex flex-col items-center justify-between h-dvh">
       <div></div>
       <h2 className="text-center font-bold font-mono text-gray-300 opacity-50 animate-fade">
         coming soon...
